@@ -1,0 +1,25 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "javascript practice",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-keller/Bookstore.git"
+  },
+  "author": "peter-keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-keller/Bookstore/issues"
+  },
+  "homepage": "https://github.com/peter-keller/Bookstore#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
+}
